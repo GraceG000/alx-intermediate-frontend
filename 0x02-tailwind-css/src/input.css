@@ -1,3 +1,4 @@
+@import "tailwindcss";
 @tailwind utilities;
 
 @media (max-width: 768px) 
